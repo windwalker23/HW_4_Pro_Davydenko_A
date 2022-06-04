@@ -49,4 +49,4 @@ if(fifthQuestion == 42) {
     console.log(points);
 }
 
-alert(points);
+alert(`Ваш результат ${points} баллов`);
